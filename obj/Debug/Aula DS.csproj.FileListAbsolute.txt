@@ -1,0 +1,12 @@
+C:\Users\natan\Estudos\C#\Aula DS\bin\Debug\Aula DS.exe.config
+C:\Users\natan\Estudos\C#\Aula DS\bin\Debug\Aula DS.exe
+C:\Users\natan\Estudos\C#\Aula DS\bin\Debug\Aula DS.pdb
+C:\Users\natan\Estudos\C#\Aula DS\bin\Debug\MySql.Data.DLL
+C:\Users\natan\Estudos\C#\Aula DS\obj\Debug\Aula DS.csprojAssemblyReference.cache
+C:\Users\natan\Estudos\C#\Aula DS\obj\Debug\Aula_DS.Form1.resources
+C:\Users\natan\Estudos\C#\Aula DS\obj\Debug\Aula_DS.Properties.Resources.resources
+C:\Users\natan\Estudos\C#\Aula DS\obj\Debug\Aula DS.csproj.GenerateResource.cache
+C:\Users\natan\Estudos\C#\Aula DS\obj\Debug\Aula DS.csproj.CoreCompileInputs.cache
+C:\Users\natan\Estudos\C#\Aula DS\obj\Debug\Aula DS.csproj.CopyComplete
+C:\Users\natan\Estudos\C#\Aula DS\obj\Debug\Aula DS.exe
+C:\Users\natan\Estudos\C#\Aula DS\obj\Debug\Aula DS.pdb

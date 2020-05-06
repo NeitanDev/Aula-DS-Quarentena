@@ -13,5 +13,13 @@ namespace Aula_DS {
         public Form1() {
             InitializeComponent();
         }
+
+        private void Label1_Click( object sender , EventArgs e ) {
+
+        }
+
+        private void ToolStripLabel1_Click( object sender , EventArgs e ) {
+
+        }
     }
 }
