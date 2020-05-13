@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace Aula_DS {
     public partial class Form1 : Form {
+
+        Model mel = new Model();
+
         public Form1() {
             InitializeComponent();
         }
@@ -37,6 +40,8 @@ namespace Aula_DS {
             textBox3.Enabled = true;
             toolStripLabel3.Enabled = false;
             toolStripLabel4.Enabled = false;
+            String sql = "INSERT INTO `db_ds`.`aluno` (`aluno_rm`, `aluno_nome`, `aluno_turma`) VALUES ('12', 'sounou', '3');";
+            mel.NonQuery( sql );
         }
 
         private void ToolStripLabel2_Click( object sender , EventArgs e ) {
