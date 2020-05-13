@@ -28,6 +28,9 @@ namespace Aula_DS {
 
         private void ToolStripLabel4_Click( object sender , EventArgs e ) {
             // inserir
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
             textBox1.Enabled = true;
             textBox1.Focus();
             textBox2.Enabled = true;
